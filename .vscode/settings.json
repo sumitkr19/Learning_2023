@@ -3,6 +3,10 @@
         "Q1.C": "cpp",
         "Q2.C": "cpp",
         "Q3.C": "cpp",
-        "Q4.C": "cpp"
-    }
+        "Q4.C": "cpp",
+        "Q5.C": "cpp",
+        "Q1a.C": "cpp",
+        "Q1b.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
