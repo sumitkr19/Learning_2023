@@ -1,6 +1,7 @@
 //Write a program to swap any type of data passed to an function
 
 #include <stdio.h>
+#include<string.h>
 
 
 void swap(void *a, void *b, size_t size) {
